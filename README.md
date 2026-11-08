@@ -31,8 +31,7 @@ To simulate a realistic early-warning scenario and prevent target leakage, first
 ## c. GitHub Repository Link
 
 - **GitHub Repository URL:** [https://github.com/Abijith-2026aj05062/bits-wilp-ml-assignment-2](https://github.com/Abijith-2026aj05062/bits-wilp-ml-assignment-2)
-- **Live Streamlit Cloud App URL:** [https://bits-wilp-ml-assignment-2-dxgbffvv9vq5canikzduvz.streamlit.app/](https://bits-wilp-ml-assignment-2-dxgbffvv9vq5canikzduvz.streamlit.app/)
-
+- **Live Streamlit Cloud App URL:** [https://bits-wilp-ml-assignment-2-sgirwm57uttpokpev3rwiw.streamlit.app/](https://bits-wilp-ml-assignment-2-sgirwm57uttpokpev3rwiw.streamlit.app/)
 ---
 
 ## d. Models Used
